@@ -5,7 +5,7 @@
 | :------: | :-----------------------: |
 | Model |     Lenovo M710q      |
 | OS |     macOS  `Big Sur 11.6.2`      |
-|  CPU  |   英特尔 i9-10980H ES QTJ1   |
+|  CPU  |   Intel i9-10980H ES QTJ1   |
 |   RAM   |           16GB            |
 |  NVMe  | KIOXIA RD20 500G |
 |   iGPU   | Intel UHD Graphics 630 |
